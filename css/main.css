@@ -1,0 +1,35 @@
+/*.container {
+    background: #fff;
+    min-height:1000px;
+}*/
+h1 {
+    color: #0588f9;
+}
+
+#weather-temperature{
+    font-size: 2em;
+     
+      padding:10px;
+}
+
+#weather-description{
+      margin-top:10px;
+     font-size: 1.5em;
+  
+      padding:10px;
+}
+#weather-location{
+  font-size: 2em;
+}
+#weather-icon img{
+   width:100px;
+    margin: 10px auto;
+}
+
+#temp-toggle{
+    margin-top:20px;
+     padding:10px;
+}
+body {
+    background: #ffe500;
+}
